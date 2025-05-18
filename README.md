@@ -27,9 +27,9 @@ These components are connected to control the water flow through multiple filtra
 
 ## Files Included
 
-- `poster.pdf`: Scientific poster summarizing the entire project.
-- `portfolio.pdf`: Detailed report including prototype materials, design rationale, testing, and results.
-- `circuit_diagram.jpg`: Circuit layout showing all hardware connections.
+- `Project's Poster.pdf`: Scientific poster summarizing the entire project.
+- `Project's Portfolio.pdf`: Detailed report including prototype materials, design rationale, testing, and results.
+- `circuit.jpg`: Circuit layout showing all hardware connections.
 - `media/`: Folder containing images and other media files documenting the project.
 - *(Code will be added soon)*
 
